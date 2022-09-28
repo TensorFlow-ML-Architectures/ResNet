@@ -1,7 +1,7 @@
 # ResNet
 Resnet model on the cats &amp; dogs dataset
 
-Residual Block
+Residual Block:
 ![Residual Block][RC]
 
 [RC]: https://github.com/TensorFlow-ML-Architectures/ResNet/raw/main/residual-block.png "Residual Block"
